@@ -1,0 +1,11 @@
+{
+    "name": "greatsir/aliyun-sms",
+    "description": "aliyun sms",
+    "authors": [
+        {
+            "name": "greatsir",
+            "email": "792756411@qq.com"
+        }
+    ],
+    "require": {}
+}
